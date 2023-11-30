@@ -31,7 +31,7 @@ from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 import textract
 
-chave_openai = "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"
+chave_openai = ""
 
 # Leitura do arquivo CSV usando Pandas
 data = pd.read_csv('/content/IA-plano-de-curso.csv')
