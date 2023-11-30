@@ -1,0 +1,1 @@
+# IA_generativa_A5_pinecone
